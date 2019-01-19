@@ -45,7 +45,7 @@ namespace C0730323
         {
             NAME = aNAME;
             GPA = cGPA;
-            Attendence = dAttendence;
+        Attendence = dAttendence;
             
 
         }
